@@ -1,7 +1,5 @@
 -- =====================================================================
 -- ICT371  Q1  PHARMACY STOCK AND DAILY SALES   (PostgreSQL)
--- Run the file top to bottom. Sections are in the order they must run.
--- pg_cron needs:  CREATE EXTENSION IF NOT EXISTS pg_cron;  (once)
 -- =====================================================================
 
 -- ---------- (0) SETUP: own schema so the 10 questions never clash [run first]
